@@ -7,13 +7,10 @@
 
 ## Summary
 
-### Senior Software Engineer with 12 years of experience building and maintaining complex web applications in government, healthcare, and enterprise environments. I've led frontend architecture and feature delivery for products used by organizations such as Johns Hopkins, with a focus on scalable state management, performance, and long-term maintainability.
+Senior Software Engineer with 12 years of experience building and maintaining complex web applications in government, healthcare, and enterprise environments. I've led frontend architecture and feature delivery for products used by organizations such as Johns Hopkins, with a focus on scalable state management, performance, and long-term maintainability.
 
-### 
 
-### My background includes deep experience with TypeScript, Angular, React, and reactive patterns using NgRX and RxJS. I've mentored engineers, led code reviews, and worked closely with product and backend teams to turn ambiguous requirements into reliable, well-structured systems. 
-
-### 
+My background includes deep experience with TypeScript, Angular, React, and reactive patterns using NgRX and RxJS. I've mentored engineers, led code reviews, and worked closely with product and backend teams to turn ambiguous requirements into reliable, well-structured systems. 
 
 ## **Experience**
 
